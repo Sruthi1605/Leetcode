@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sruthi1605/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Sruthi1605/Leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
