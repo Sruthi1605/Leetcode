@@ -18,6 +18,7 @@
 | [0007-reverse-integer](https://github.com/Sruthi1605/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Sruthi1605/Leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Sruthi1605/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +62,12 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sruthi1605/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
