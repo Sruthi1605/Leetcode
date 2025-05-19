@@ -32,6 +32,7 @@
 | [0015-3sum](https://github.com/Sruthi1605/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sruthi1605/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Sruthi1605/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
@@ -47,6 +48,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sruthi1605/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Sruthi1605/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 ## String Matching
