@@ -110,4 +110,8 @@
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/Sruthi1605/Leetcode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
