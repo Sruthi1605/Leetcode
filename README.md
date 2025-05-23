@@ -27,6 +27,7 @@
 | [0066-plus-one](https://github.com/Sruthi1605/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sruthi1605/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sruthi1605/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
 ## Bit Manipulation
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sruthi1605/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Sruthi1605/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
 ## Enumeration
 |  |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sruthi1605/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
