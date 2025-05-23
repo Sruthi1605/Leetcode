@@ -23,6 +23,7 @@
 | [0007-reverse-integer](https://github.com/Sruthi1605/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Sruthi1605/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Sruthi1605/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Sruthi1605/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sruthi1605/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
@@ -42,6 +43,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sruthi1605/Leetcode/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/Sruthi1605/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Sruthi1605/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Sruthi1605/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
