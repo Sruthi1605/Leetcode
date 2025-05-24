@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Sruthi1605/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Sruthi1605/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sruthi1605/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sruthi1605/Leetcode/tree/master/0125-valid-palindrome) |
@@ -50,6 +51,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sruthi1605/Leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Sruthi1605/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sruthi1605/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sruthi1605/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sruthi1605/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sruthi1605/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
