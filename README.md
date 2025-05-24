@@ -37,6 +37,7 @@
 | [0029-divide-two-integers](https://github.com/Sruthi1605/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sruthi1605/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Array
 |  |
 | ------- |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sruthi1605/Leetcode/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
