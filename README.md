@@ -16,6 +16,7 @@
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sruthi1605/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -58,6 +59,7 @@
 | [0066-plus-one](https://github.com/Sruthi1605/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Sruthi1605/Leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
 ## Two Pointers
@@ -84,6 +86,7 @@
 | [0015-3sum](https://github.com/Sruthi1605/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sruthi1605/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,4 +157,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sruthi1605/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
