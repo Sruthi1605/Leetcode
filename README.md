@@ -17,6 +17,7 @@
 | [0125-valid-palindrome](https://github.com/Sruthi1605/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -87,6 +88,7 @@
 | [0016-3sum-closest](https://github.com/Sruthi1605/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sruthi1605/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sruthi1605/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
