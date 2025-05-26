@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sruthi1605/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sruthi1605/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Hash Table
 |  |
 | ------- |
