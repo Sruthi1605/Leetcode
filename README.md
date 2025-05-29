@@ -68,6 +68,7 @@
 | [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Sruthi1605/Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Sruthi1605/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sruthi1605/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/Sruthi1605/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
