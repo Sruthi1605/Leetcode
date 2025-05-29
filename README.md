@@ -41,6 +41,7 @@
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sruthi1605/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Sruthi1605/Leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Sruthi1605/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Sruthi1605/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sruthi1605/Leetcode/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
