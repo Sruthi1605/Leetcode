@@ -4,9 +4,6 @@ class Solution(object):
         :type num: int
         :rtype: int
         """
-        while num >= 10:
-            sum = 0
-            for i in str(num):
-                sum += int(i)
-            num = sum  
-        return num
+        if num == 0:
+            return 0
+        return 1 + (num - 1) % 9
