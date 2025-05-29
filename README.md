@@ -40,6 +40,7 @@
 | [0070-climbing-stairs](https://github.com/Sruthi1605/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Sruthi1605/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sruthi1605/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Sruthi1605/Leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sruthi1605/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Sruthi1605/Leetcode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
