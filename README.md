@@ -69,6 +69,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Sruthi1605/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
@@ -127,6 +128,7 @@
 | [0022-generate-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Sruthi1605/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Enumeration
 |  |
 | ------- |
