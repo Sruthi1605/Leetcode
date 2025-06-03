@@ -68,6 +68,7 @@
 | [0066-plus-one](https://github.com/Sruthi1605/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Sruthi1605/Leetcode/tree/master/0136-single-number) |
@@ -204,6 +205,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -227,6 +229,7 @@
 | [0100-same-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sruthi1605/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sruthi1605/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -257,6 +260,7 @@
 | [0100-same-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sruthi1605/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sruthi1605/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -265,4 +269,8 @@
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
