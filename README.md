@@ -75,6 +75,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sruthi1605/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sruthi1605/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Sruthi1605/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sruthi1605/Leetcode/tree/master/0204-count-primes) |
@@ -112,6 +113,7 @@
 | [0016-3sum-closest](https://github.com/Sruthi1605/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sruthi1605/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sruthi1605/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
@@ -167,6 +169,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sruthi1605/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sruthi1605/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Sruthi1605/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sruthi1605/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Sruthi1605/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -278,6 +282,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sruthi1605/Leetcode/tree/master/0169-majority-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search Tree
 |  |
