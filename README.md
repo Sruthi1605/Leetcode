@@ -229,6 +229,7 @@
 | [1338-queries-quality-and-percentage](https://github.com/Sruthi1605/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Sruthi1605/Leetcode/tree/master/1390-average-selling-price) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Sruthi1605/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1670-patients-with-a-condition](https://github.com/Sruthi1605/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Sruthi1605/Leetcode/tree/master/1811-fix-names-in-a-table) |
 ## Simulation
 |  |
