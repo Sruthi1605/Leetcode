@@ -228,6 +228,7 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Sruthi1605/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Sruthi1605/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Sruthi1605/Leetcode/tree/master/1390-average-selling-price) |
+| [1811-fix-names-in-a-table](https://github.com/Sruthi1605/Leetcode/tree/master/1811-fix-names-in-a-table) |
 ## Simulation
 |  |
 | ------- |
