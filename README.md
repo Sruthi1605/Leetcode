@@ -235,6 +235,7 @@
 | [1301-reformat-department-table](https://github.com/Sruthi1605/Leetcode/tree/master/1301-reformat-department-table) |
 | [1338-queries-quality-and-percentage](https://github.com/Sruthi1605/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Sruthi1605/Leetcode/tree/master/1390-average-selling-price) |
+| [1415-students-and-examinations](https://github.com/Sruthi1605/Leetcode/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Sruthi1605/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Sruthi1605/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sruthi1605/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
