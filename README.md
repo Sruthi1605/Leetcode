@@ -139,6 +139,7 @@
 | [0035-search-insert-position](https://github.com/Sruthi1605/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sruthi1605/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Sruthi1605/Leetcode/tree/master/0278-first-bad-version) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -344,4 +345,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sruthi1605/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sruthi1605/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sruthi1605/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
