@@ -24,6 +24,7 @@
 | [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sruthi1605/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0290-word-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -191,6 +192,7 @@
 | [0217-contains-duplicate](https://github.com/Sruthi1605/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
