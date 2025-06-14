@@ -91,6 +91,7 @@
 | [0217-contains-duplicate](https://github.com/Sruthi1605/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Sruthi1605/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0283-move-zeroes) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -111,6 +112,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sruthi1605/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0283-move-zeroes) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
