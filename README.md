@@ -249,6 +249,7 @@
 | [1811-fix-names-in-a-table](https://github.com/Sruthi1605/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Sruthi1605/Leetcode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Sruthi1605/Leetcode/tree/master/1837-daily-leads-and-partners) |
+| [1877-find-followers-count](https://github.com/Sruthi1605/Leetcode/tree/master/1877-find-followers-count) |
 | [2110-employees-with-missing-information](https://github.com/Sruthi1605/Leetcode/tree/master/2110-employees-with-missing-information) |
 ## Simulation
 |  |
