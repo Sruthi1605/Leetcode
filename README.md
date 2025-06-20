@@ -249,6 +249,7 @@
 | [1182-game-play-analysis-iv](https://github.com/Sruthi1605/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Sruthi1605/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Sruthi1605/Leetcode/tree/master/1258-article-views-i) |
+| [1268-market-analysis-i](https://github.com/Sruthi1605/Leetcode/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/Sruthi1605/Leetcode/tree/master/1301-reformat-department-table) |
 | [1338-queries-quality-and-percentage](https://github.com/Sruthi1605/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Sruthi1605/Leetcode/tree/master/1390-average-selling-price) |
