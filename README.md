@@ -260,6 +260,7 @@
 | [1415-students-and-examinations](https://github.com/Sruthi1605/Leetcode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/Sruthi1605/Leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Sruthi1605/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/Sruthi1605/Leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sruthi1605/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/Sruthi1605/Leetcode/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/Sruthi1605/Leetcode/tree/master/1541-top-travellers) |
