@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select b.stock_name, sum(s.price - b.price) as capital_gain_loss from (select *, row_number() over (partition by stock_name, operation order by operation_day) as rn from stocks) b join (select *, row_number() over (partition by stock_name, operation order by operation_day) as rn from stocks) s on b.stock_name = s.stock_name and b.rn = s.rn where b.operation = 'buy' and s.operation = 'sell' group by b.stock_name;
