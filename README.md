@@ -261,6 +261,7 @@
 | [1452-restaurant-growth](https://github.com/Sruthi1605/Leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Sruthi1605/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sruthi1605/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/Sruthi1605/Leetcode/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/Sruthi1605/Leetcode/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Sruthi1605/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Sruthi1605/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
