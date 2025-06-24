@@ -283,6 +283,7 @@
 | [2057-count-salary-categories](https://github.com/Sruthi1605/Leetcode/tree/master/2057-count-salary-categories) |
 | [2110-employees-with-missing-information](https://github.com/Sruthi1605/Leetcode/tree/master/2110-employees-with-missing-information) |
 | [3782-find-valid-emails](https://github.com/Sruthi1605/Leetcode/tree/master/3782-find-valid-emails) |
+| [3803-find-products-with-valid-serial-numbers](https://github.com/Sruthi1605/Leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Simulation
 |  |
 | ------- |
