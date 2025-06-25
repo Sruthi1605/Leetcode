@@ -93,6 +93,7 @@
 | [0228-summary-ranges](https://github.com/Sruthi1605/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sruthi1605/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -387,6 +388,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sruthi1605/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sruthi1605/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Sruthi1605/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -396,4 +398,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sruthi1605/Leetcode/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sruthi1605/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
