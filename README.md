@@ -58,6 +58,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sruthi1605/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sruthi1605/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sruthi1605/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -81,6 +82,7 @@
 | [0057-insert-interval](https://github.com/Sruthi1605/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sruthi1605/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Sruthi1605/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sruthi1605/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Sruthi1605/Leetcode/tree/master/0118-pascals-triangle) |
@@ -319,6 +321,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sruthi1605/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sruthi1605/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Sruthi1605/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Sruthi1605/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
