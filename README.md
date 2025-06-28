@@ -25,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sruthi1605/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -130,6 +131,7 @@
 | [0189-rotate-array](https://github.com/Sruthi1605/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sruthi1605/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
@@ -172,6 +174,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sruthi1605/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0392-is-subsequence) |
 ## Enumeration
 |  |
 | ------- |
