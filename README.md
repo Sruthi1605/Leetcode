@@ -85,6 +85,7 @@
 | [0036-valid-sudoku](https://github.com/Sruthi1605/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Sruthi1605/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sruthi1605/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Sruthi1605/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sruthi1605/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sruthi1605/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sruthi1605/Leetcode/tree/master/0258-add-digits) |
 ## Memoization
@@ -352,6 +354,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sruthi1605/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Tree
 |  |
