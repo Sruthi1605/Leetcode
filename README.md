@@ -56,6 +56,7 @@
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Sruthi1605/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Sruthi1605/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sruthi1605/Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0231-power-of-two](https://github.com/Sruthi1605/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Sruthi1605/Leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0231-power-of-two](https://github.com/Sruthi1605/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sruthi1605/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Sruthi1605/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sruthi1605/Leetcode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
