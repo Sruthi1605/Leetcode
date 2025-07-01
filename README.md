@@ -72,6 +72,7 @@
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sruthi1605/Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Sruthi1605/Leetcode/tree/master/0401-binary-watch) |
 ## Array
 |  |
 | ------- |
@@ -351,6 +352,7 @@
 | [0046-permutations](https://github.com/Sruthi1605/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sruthi1605/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Sruthi1605/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Sruthi1605/Leetcode/tree/master/0401-binary-watch) |
 ## Greedy
 |  |
 | ------- |
