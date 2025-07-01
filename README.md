@@ -113,6 +113,7 @@
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sruthi1605/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Sruthi1605/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -141,6 +142,7 @@
 | [0283-move-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sruthi1605/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sruthi1605/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
@@ -161,6 +163,7 @@
 | [0217-contains-duplicate](https://github.com/Sruthi1605/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sruthi1605/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -174,6 +177,7 @@
 | [0069-sqrtx](https://github.com/Sruthi1605/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Sruthi1605/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Sruthi1605/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +235,7 @@
 | [0242-valid-anagram](https://github.com/Sruthi1605/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Sruthi1605/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
