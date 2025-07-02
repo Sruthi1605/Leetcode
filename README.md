@@ -28,6 +28,7 @@
 | [0290-word-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sruthi1605/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Sruthi1605/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
@@ -244,6 +245,7 @@
 | [0290-word-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sruthi1605/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Sruthi1605/Leetcode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sruthi1605/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Sruthi1605/Leetcode/tree/master/0383-ransom-note) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search Tree
 |  |
