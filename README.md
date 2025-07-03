@@ -30,6 +30,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sruthi1605/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Sruthi1605/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
@@ -75,6 +76,7 @@
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sruthi1605/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Sruthi1605/Leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Sruthi1605/Leetcode/tree/master/0401-binary-watch) |
 ## Array
 |  |
@@ -170,6 +172,7 @@
 | [0268-missing-number](https://github.com/Sruthi1605/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sruthi1605/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Sruthi1605/Leetcode/tree/master/0389-find-the-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -248,6 +251,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Sruthi1605/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Sruthi1605/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
