@@ -63,6 +63,7 @@
 | [0326-power-of-three](https://github.com/Sruthi1605/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sruthi1605/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sruthi1605/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sruthi1605/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0342-power-of-four](https://github.com/Sruthi1605/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Sruthi1605/Leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Sruthi1605/Leetcode/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sruthi1605/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Array
 |  |
 | ------- |
