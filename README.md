@@ -33,6 +33,7 @@
 | [0389-find-the-difference](https://github.com/Sruthi1605/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Sruthi1605/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Sruthi1605/Leetcode/tree/master/0415-add-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -65,6 +66,7 @@
 | [0342-power-of-four](https://github.com/Sruthi1605/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sruthi1605/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sruthi1605/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Sruthi1605/Leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -357,6 +359,7 @@
 | [0054-spiral-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sruthi1605/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sruthi1605/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Sruthi1605/Leetcode/tree/master/0415-add-strings) |
 ## Memoization
 |  |
 | ------- |
