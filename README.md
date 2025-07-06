@@ -130,6 +130,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sruthi1605/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sruthi1605/Leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -265,6 +266,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sruthi1605/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sruthi1605/Leetcode/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
