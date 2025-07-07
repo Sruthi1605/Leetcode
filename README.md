@@ -36,6 +36,7 @@
 | [0412-fizz-buzz](https://github.com/Sruthi1605/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sruthi1605/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Sorting
 |  |
 | ------- |
