@@ -137,6 +137,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sruthi1605/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Sruthi1605/Leetcode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Sruthi1605/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
