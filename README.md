@@ -38,6 +38,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Sruthi1605/Leetcode/tree/master/0482-license-key-formatting) |
+| [0504-base-7](https://github.com/Sruthi1605/Leetcode/tree/master/0504-base-7) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -73,6 +74,7 @@
 | [0412-fizz-buzz](https://github.com/Sruthi1605/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sruthi1605/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sruthi1605/Leetcode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/Sruthi1605/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Sruthi1605/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
