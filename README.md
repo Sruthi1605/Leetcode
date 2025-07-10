@@ -38,6 +38,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Sruthi1605/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Sruthi1605/Leetcode/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Sruthi1605/Leetcode/tree/master/0504-base-7) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
@@ -141,6 +142,7 @@
 | [0455-assign-cookies](https://github.com/Sruthi1605/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Sruthi1605/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Sruthi1605/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sruthi1605/Leetcode/tree/master/0506-relative-ranks) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -284,6 +286,7 @@
 | [0389-find-the-difference](https://github.com/Sruthi1605/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sruthi1605/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
 ## Sliding Window
 |  |
 | ------- |
