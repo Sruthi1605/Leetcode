@@ -146,6 +146,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sruthi1605/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sruthi1605/Leetcode/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/Sruthi1605/Leetcode/tree/master/0575-distribute-candies) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -289,6 +290,7 @@
 | [0409-longest-palindrome](https://github.com/Sruthi1605/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Sruthi1605/Leetcode/tree/master/0575-distribute-candies) |
 ## Sliding Window
 |  |
 | ------- |
