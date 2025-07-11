@@ -40,6 +40,7 @@
 | [0482-license-key-formatting](https://github.com/Sruthi1605/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Sruthi1605/Leetcode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/Sruthi1605/Leetcode/tree/master/0520-detect-capital) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
