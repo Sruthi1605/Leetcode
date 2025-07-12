@@ -146,6 +146,7 @@
 | [0463-island-perimeter](https://github.com/Sruthi1605/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Sruthi1605/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Sruthi1605/Leetcode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/Sruthi1605/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sruthi1605/Leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/Sruthi1605/Leetcode/tree/master/0575-distribute-candies) |
@@ -291,6 +292,7 @@
 | [0389-find-the-difference](https://github.com/Sruthi1605/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Sruthi1605/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Sruthi1605/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Sruthi1605/Leetcode/tree/master/0575-distribute-candies) |
 ## Sliding Window
@@ -309,6 +311,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Sruthi1605/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sruthi1605/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sruthi1605/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Sruthi1605/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -537,4 +540,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Sruthi1605/Leetcode/tree/master/0506-relative-ranks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sruthi1605/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
