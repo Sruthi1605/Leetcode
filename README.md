@@ -151,6 +151,7 @@
 | [0496-next-greater-element-i](https://github.com/Sruthi1605/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sruthi1605/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Sruthi1605/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Sruthi1605/Leetcode/tree/master/0575-distribute-candies) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -211,6 +212,7 @@
 | [0414-third-maximum-number](https://github.com/Sruthi1605/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sruthi1605/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Sruthi1605/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Sruthi1605/Leetcode/tree/master/0561-array-partition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -432,6 +434,7 @@
 | [0179-largest-number](https://github.com/Sruthi1605/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Sruthi1605/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sruthi1605/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Sruthi1605/Leetcode/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Matrix
 |  |
@@ -505,6 +508,7 @@
 | [0169-majority-element](https://github.com/Sruthi1605/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sruthi1605/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sruthi1605/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/Sruthi1605/Leetcode/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search Tree
 |  |
