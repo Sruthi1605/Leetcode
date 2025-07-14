@@ -152,6 +152,7 @@
 | [0500-keyboard-row](https://github.com/Sruthi1605/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sruthi1605/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Sruthi1605/Leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Sruthi1605/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Sruthi1605/Leetcode/tree/master/0605-can-place-flowers) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -406,6 +407,7 @@
 | [0412-fizz-buzz](https://github.com/Sruthi1605/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sruthi1605/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Sruthi1605/Leetcode/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -445,6 +447,7 @@
 | [0054-spiral-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Sruthi1605/Leetcode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Tree
 |  |
 | ------- |
