@@ -468,6 +468,7 @@
 | [0226-invert-binary-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sruthi1605/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sruthi1605/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0563-binary-tree-tilt](https://github.com/Sruthi1605/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -485,6 +486,7 @@
 | [0257-binary-tree-paths](https://github.com/Sruthi1605/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sruthi1605/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Sruthi1605/Leetcode/tree/master/0463-island-perimeter) |
+| [0563-binary-tree-tilt](https://github.com/Sruthi1605/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -513,6 +515,7 @@
 | [0226-invert-binary-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sruthi1605/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sruthi1605/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0563-binary-tree-tilt](https://github.com/Sruthi1605/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Counting Sort
 |  |
