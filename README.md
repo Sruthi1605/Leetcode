@@ -328,6 +328,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Sruthi1605/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sruthi1605/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sruthi1605/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Sruthi1605/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -475,6 +476,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Sruthi1605/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/Sruthi1605/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Sruthi1605/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -493,6 +495,7 @@
 | [0463-island-perimeter](https://github.com/Sruthi1605/Leetcode/tree/master/0463-island-perimeter) |
 | [0563-binary-tree-tilt](https://github.com/Sruthi1605/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Sruthi1605/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
