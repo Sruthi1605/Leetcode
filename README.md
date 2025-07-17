@@ -477,6 +477,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sruthi1605/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Sruthi1605/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sruthi1605/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -497,6 +498,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sruthi1605/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Sruthi1605/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sruthi1605/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -510,6 +512,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Sruthi1605/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Sruthi1605/Leetcode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sruthi1605/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
