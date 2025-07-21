@@ -88,6 +88,7 @@
 | [0507-perfect-number](https://github.com/Sruthi1605/Leetcode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sruthi1605/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Sruthi1605/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -169,6 +170,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sruthi1605/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sruthi1605/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sruthi1605/Leetcode/tree/master/0645-set-mismatch) |
+| [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -621,4 +623,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sruthi1605/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
