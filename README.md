@@ -172,6 +172,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sruthi1605/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sruthi1605/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sruthi1605/Leetcode/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/Sruthi1605/Leetcode/tree/master/0661-image-smoother) |
 | [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -487,6 +488,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sruthi1605/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Sruthi1605/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Sruthi1605/Leetcode/tree/master/0661-image-smoother) |
 ## Tree
 |  |
 | ------- |
