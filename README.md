@@ -174,6 +174,7 @@
 | [0645-set-mismatch](https://github.com/Sruthi1605/Leetcode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Sruthi1605/Leetcode/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Sruthi1605/Leetcode/tree/master/0682-baseball-game) |
 | [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -356,6 +357,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Sruthi1605/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sruthi1605/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sruthi1605/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Sruthi1605/Leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sruthi1605/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sruthi1605/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -448,6 +450,7 @@
 | [0495-teemo-attacking](https://github.com/Sruthi1605/Leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Sruthi1605/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Sruthi1605/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Sruthi1605/Leetcode/tree/master/0682-baseball-game) |
 ## Memoization
 |  |
 | ------- |
