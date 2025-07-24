@@ -111,6 +111,7 @@
 | [0461-hamming-distance](https://github.com/Sruthi1605/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Sruthi1605/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Sruthi1605/Leetcode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Array
 |  |
 | ------- |
