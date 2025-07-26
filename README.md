@@ -49,6 +49,7 @@
 | [0657-robot-return-to-origin](https://github.com/Sruthi1605/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Sruthi1605/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0742-to-lower-case](https://github.com/Sruthi1605/Leetcode/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
