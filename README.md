@@ -180,6 +180,7 @@
 | [0682-baseball-game](https://github.com/Sruthi1605/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sruthi1605/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/Sruthi1605/Leetcode/tree/master/0724-find-pivot-index) |
 | [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -632,6 +633,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sruthi1605/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Sruthi1605/Leetcode/tree/master/0724-find-pivot-index) |
 ## Brainteaser
 |  |
 | ------- |
