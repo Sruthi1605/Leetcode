@@ -179,6 +179,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Sruthi1605/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Sruthi1605/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
