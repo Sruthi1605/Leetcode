@@ -183,6 +183,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sruthi1605/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Sruthi1605/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sruthi1605/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sruthi1605/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -285,6 +286,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sruthi1605/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sruthi1605/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sruthi1605/Leetcode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sruthi1605/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sruthi1605/Leetcode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
