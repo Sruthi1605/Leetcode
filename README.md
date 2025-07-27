@@ -92,6 +92,7 @@
 | [0507-perfect-number](https://github.com/Sruthi1605/Leetcode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sruthi1605/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Sruthi1605/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Sruthi1605/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
