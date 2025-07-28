@@ -50,6 +50,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Sruthi1605/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Sruthi1605/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Sruthi1605/Leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/Sruthi1605/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -352,6 +353,7 @@
 | [0645-set-mismatch](https://github.com/Sruthi1605/Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sruthi1605/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0782-jewels-and-stones](https://github.com/Sruthi1605/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 ## Sliding Window
 |  |
