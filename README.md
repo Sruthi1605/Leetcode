@@ -191,6 +191,7 @@
 | [0830-largest-triangle-area](https://github.com/Sruthi1605/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0932-monotonic-array](https://github.com/Sruthi1605/Leetcode/tree/master/0932-monotonic-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
