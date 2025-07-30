@@ -54,6 +54,7 @@
 | [0824-number-of-lines-to-write-string](https://github.com/Sruthi1605/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0965-unique-email-addresses](https://github.com/Sruthi1605/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/Sruthi1605/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Sruthi1605/Leetcode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Sruthi1605/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -192,6 +193,7 @@
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sruthi1605/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Sruthi1605/Leetcode/tree/master/0932-monotonic-array) |
+| [0965-unique-email-addresses](https://github.com/Sruthi1605/Leetcode/tree/master/0965-unique-email-addresses) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sruthi1605/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sruthi1605/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sruthi1605/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -358,6 +360,7 @@
 | [0697-degree-of-an-array](https://github.com/Sruthi1605/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/Sruthi1605/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sruthi1605/Leetcode/tree/master/0837-most-common-word) |
+| [0965-unique-email-addresses](https://github.com/Sruthi1605/Leetcode/tree/master/0965-unique-email-addresses) |
 ## Sliding Window
 |  |
 | ------- |
